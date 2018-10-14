@@ -13,7 +13,6 @@
     "test": "react-scripts test",
     "e2e": "NODE_ENV=debug cucumber-js src/tests/features",
     "e2e-headless": "cucumber-js src/tests/features",
-    "test-suite": "npm run test && npm run test-e2e",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -29,6 +28,7 @@
     "cucumber": "^5.0.2",
     "enzyme": "^3.7.0",
     "enzyme-adapter-react-16": "^1.6.0",
+    "expect": "^23.6.0",
     "puppeteer": "^1.9.0"
   }
 }
