@@ -2,8 +2,6 @@
 
 This is a minimal example setup showing how to configure Puppeteer, Cucumber, Jest and Enzyme with create-react-app. You can use this setup for BDD/TDD in React projects.
 
-> _You can also do BDD and TDD **simultaneously**! Essentially, your behavior tests inform your unit tests, which in turn inform your code. It's pretty awesome. People call it the [double testing loop](https://www.slideshare.net/JessicaMauerhan/double-loop-tdd-bdd-done-right)._
-
 ## Install
 
 ```
