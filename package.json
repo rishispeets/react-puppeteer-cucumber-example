@@ -25,7 +25,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "cucumber": "5.0.2",
+    "cucumber": "6.0.5",
     "enzyme": "3.9.0",
     "enzyme-adapter-react-16": "1.6.0",
     "expect": "24.5.0",
