@@ -28,7 +28,7 @@
     "cucumber": "5.0.2",
     "enzyme": "3.9.0",
     "enzyme-adapter-react-16": "1.6.0",
-    "expect": "24.5.0",
+    "expect": "25.4.0",
     "puppeteer": "1.9.0"
   }
 }
